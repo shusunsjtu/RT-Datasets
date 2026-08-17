@@ -176,7 +176,7 @@ Use the following BibTeX entry after replacing the placeholders:
 
 ```bibtex
 @misc{xband_rt_dataset,
-  author       = {Hongpu Zhang, Xiangwen Gu},
+  author       = {Hongpu Zhang, Xiangwen Gu, Shu Sun},
   title        = {{Cross Band RT Cross-Band CSI Dataset}},
   year         = {2026},
   version      = {v1.0.0},
