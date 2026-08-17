@@ -169,12 +169,19 @@ In the paper, cite the dataset release when describing the RT subset, for
 example:
 
 ```latex
-The RT subset is released as the RT Cross-Band CSI Dataset~\cite{xband_rt_dataset}.
+The RT subset is released as the RT Cross-Band CSI Dataset~\cite{xband2026paper, xband_rt_dataset}.
 ```
 
 Use the following BibTeX entry after replacing the placeholders:
 
 ```bibtex
+@INPROCEEDINGS{xband2026paper,
+  author  = {H. Zhang and S. Sun and R. Gao and T. Zhang and F. Yang},
+  booktitle={2026 IEEE/CIC International Conference on Communications in China (ICCC Workshops)}, 
+  title   = {A Foundation Model for Cross-Band CSI Reconstruction},
+  year    = {2026}
+}
+
 @misc{xband_rt_dataset,
   author       = {Hongpu Zhang, Xiangwen Gu, Shu Sun},
   title        = {{Cross Band RT Cross-Band CSI Dataset}},
